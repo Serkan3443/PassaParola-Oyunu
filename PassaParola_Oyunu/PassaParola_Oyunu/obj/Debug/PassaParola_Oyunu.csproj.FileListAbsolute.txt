@@ -1,0 +1,10 @@
+C:\Users\Lenovo\Desktop\Eğitim Kurs Klasörü\C# FROM DERSLERİNE GİRİŞ\Murat Yücedağ C# Form\PROJELER\PassaParola_Oyunu\PassaParola_Oyunu\bin\Debug\PassaParola_Oyunu.exe.config
+C:\Users\Lenovo\Desktop\Eğitim Kurs Klasörü\C# FROM DERSLERİNE GİRİŞ\Murat Yücedağ C# Form\PROJELER\PassaParola_Oyunu\PassaParola_Oyunu\bin\Debug\PassaParola_Oyunu.exe
+C:\Users\Lenovo\Desktop\Eğitim Kurs Klasörü\C# FROM DERSLERİNE GİRİŞ\Murat Yücedağ C# Form\PROJELER\PassaParola_Oyunu\PassaParola_Oyunu\bin\Debug\PassaParola_Oyunu.pdb
+C:\Users\Lenovo\Desktop\Eğitim Kurs Klasörü\C# FROM DERSLERİNE GİRİŞ\Murat Yücedağ C# Form\PROJELER\PassaParola_Oyunu\PassaParola_Oyunu\obj\Debug\PassaParola_Oyunu.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\Eğitim Kurs Klasörü\C# FROM DERSLERİNE GİRİŞ\Murat Yücedağ C# Form\PROJELER\PassaParola_Oyunu\PassaParola_Oyunu\obj\Debug\PassaParola_Oyunu.Form1.resources
+C:\Users\Lenovo\Desktop\Eğitim Kurs Klasörü\C# FROM DERSLERİNE GİRİŞ\Murat Yücedağ C# Form\PROJELER\PassaParola_Oyunu\PassaParola_Oyunu\obj\Debug\PassaParola_Oyunu.Properties.Resources.resources
+C:\Users\Lenovo\Desktop\Eğitim Kurs Klasörü\C# FROM DERSLERİNE GİRİŞ\Murat Yücedağ C# Form\PROJELER\PassaParola_Oyunu\PassaParola_Oyunu\obj\Debug\PassaParola_Oyunu.csproj.GenerateResource.cache
+C:\Users\Lenovo\Desktop\Eğitim Kurs Klasörü\C# FROM DERSLERİNE GİRİŞ\Murat Yücedağ C# Form\PROJELER\PassaParola_Oyunu\PassaParola_Oyunu\obj\Debug\PassaParola_Oyunu.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\Eğitim Kurs Klasörü\C# FROM DERSLERİNE GİRİŞ\Murat Yücedağ C# Form\PROJELER\PassaParola_Oyunu\PassaParola_Oyunu\obj\Debug\PassaParola_Oyunu.exe
+C:\Users\Lenovo\Desktop\Eğitim Kurs Klasörü\C# FROM DERSLERİNE GİRİŞ\Murat Yücedağ C# Form\PROJELER\PassaParola_Oyunu\PassaParola_Oyunu\obj\Debug\PassaParola_Oyunu.pdb
